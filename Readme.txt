@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Actualizar
 
-Template Name: BizLand
-Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+iniciar bash 
+add . 
+git commit -m "Actualizacion"
+git pull
